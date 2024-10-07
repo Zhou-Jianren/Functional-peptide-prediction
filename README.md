@@ -14,8 +14,11 @@ keras 2.6.0
 ```
 If other libraries are missing, you can install them yourself using the command `pip install package_name==2.0.0`
 ## ROC and PR graph
+### ACE inhibitory peptides
 ![ACE inhibitory peptides](https://github.com/Zhou-Jianren/bioactive-peptides/blob/main/image/ACE.jpeg)
+### ACP
 ![ACP](https://github.com/Zhou-Jianren/bioactive-peptides/blob/main/image/ACP.jpeg)
+### Performance Comparison
 ![Performance Comparison](https://github.com/Zhou-Jianren/bioactive-peptides/blob/main/image/polar.jpeg)
 ## Usage Process
 Note: The ACE inhibitory peptide dataset uses 0 and 1 to represent high activity and low/no activity, respectively.
