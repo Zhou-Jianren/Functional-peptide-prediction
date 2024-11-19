@@ -29,3 +29,4 @@ Feature extraction using ESM-2
 The model experimental methods are in the ACE and ACP folders respectively. The main folder contains command line predictions for ACE inhibitory peptides and ACP.
 ## Further adjustments and modifications
 Feel free to make your own changes. Simply scroll down to the Model Architecture section and modify it to suit your needs.
+If you have any questions, please contact us: 2521282343@qq.com.
